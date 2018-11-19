@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Android Basics Lesson 1</string>
+    <string name="app_name">Welcome!</string>
+    <!--this is where you specify the header's content (string)-->
 </resources>

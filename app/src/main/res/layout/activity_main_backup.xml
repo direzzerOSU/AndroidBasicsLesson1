@@ -7,11 +7,10 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:id="@+id/welcomeMessage"
+        android:id="@+id/sample_text"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:contentDescription="welcomeMessage"
-        android:text="Hello world! Welcome to my App!"
+        android:text="Hello World!"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
